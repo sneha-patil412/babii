@@ -10,16 +10,6 @@
     <label for="meaning1">Meaning:</label>
     <input type="text" name="meaning" class="form-control" id="meaning1" placeholder="Meaning"/>
   </div>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <div class="form-group">
     <label for="sex1">Sex:</label>
     <input type="radio" name="sex" value="boy" id="sex1"/>Male
