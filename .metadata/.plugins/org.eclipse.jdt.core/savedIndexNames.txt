@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+F:\Baby\babii\.metadata\.plugins\org.eclipse.jdt.core
+1484506220.index
